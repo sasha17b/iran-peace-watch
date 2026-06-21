@@ -75,16 +75,6 @@ RAG: 🟢 implemented · 🟡 in progress / contested · 🔴 breached · ⚪ no
 
 ---
 
-## Implications for OUDRA
-
-| Horizon | Trigger | Priority move |
-|---|---|---|
-| **Now** | Politics-independent | Decide domicile (Lux vs. CH); stand up GP/ManCo + compliance; draft the reconstruction thesis; warm PG / LGT CP informally — no ask. |
-| **~16 Aug** | Final deal signed / extended | Stress-test the thesis against the deal text; ready the LP teaser & DDQ; secure a legal opinion on the sanctions pathway. |
-| **On trigger** | Sanctions relief + UNSC endorsement | Open the raise; set a first-close target; deploy. |
-
----
-
 ## Daily assessment log
 
 | Date | Call | Net read of the day |
