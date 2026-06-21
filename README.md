@@ -1,5 +1,5 @@
 # Iran Private Equity Fund: Readiness for First LP Talks
-### A daily situation report tracking implementation of the **Islamabad Memorandum** and the trajectory toward a final settlement to be signed in Geneva.
+### A daily situation report tracking implementation of the **Islamabad Memorandum** and the trajectory toward a final peace settlement to be signed in Geneva.
 
 `As of 21 Jun 2026`  ·  `Settlement clock: Day 4 of 60`  ·  `Readiness: 🔴 ~20 / 100`  ·  `Basis: open-source reporting`
 
