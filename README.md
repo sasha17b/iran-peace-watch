@@ -75,13 +75,13 @@ RAG: 🟢 implemented · 🟡 in progress / contested · 🔴 breached · ⚪ no
 
 ---
 
-## Implications for OUDRA — sequenced moves
+## Implications for OUDRA
 
-| Horizon | Trigger | Priority actions |
+| Horizon | Trigger | Priority move |
 |---|---|---|
-| **Now (0–60 days)** | Regardless of politics | Lock fund structure & domicile (Lux vs. CH); GP/management-company setup; compliance & sanctions-screening framework; build reconstruction-sector pipeline thesis; begin *informal* relationship-building with PG / LGT CP (no ask). |
-| **At 60-day milestone (~16 Aug)** | Final deal signed / extended | Stress-test thesis against the actual deal text; prepare LP teaser & DDQ; pre-position legal opinion on sanctions pathway. |
-| **On investable trigger** | Sanctions relief + UNSC endorsement visible | Open formal raise; first-close target; deploy pipeline. |
+| **Now** | Politics-independent | Decide domicile (Lux vs. CH); stand up GP/ManCo + compliance; draft the reconstruction thesis; warm PG / LGT CP informally — no ask. |
+| **~16 Aug** | Final deal signed / extended | Stress-test the thesis against the deal text; ready the LP teaser & DDQ; secure a legal opinion on the sanctions pathway. |
+| **On trigger** | Sanctions relief + UNSC endorsement | Open the raise; set a first-close target; deploy. |
 
 ---
 
