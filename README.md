@@ -51,7 +51,7 @@ RAG: 🟢 implemented · 🟡 in progress / contested · 🔴 breached · ⚪ no
 | 3 | Final deal within 60 days (extendable) | 🟡 | Clock running; Day 4 of 60. |
 | 9 | Hold the status quo during talks | 🟡 | Undercut by Lebanon strikes and the Hormuz dispute. |
 | 12 | Stand up a joint monitoring / compliance body | ⚪ | Not yet constituted. |
-| 13 | Phased negotiations once initial provisions function | 🟡 | 21 Jun: first round convened at Bürgenstock (US–Iran, Pakistani & Qatari mediators). No confirmed readout. |
+| 13 | Phased negotiations once initial provisions function | 🟡 | 21 Jun: first round opened at Bürgenstock — Vance spoke, thanking Pakistani & Qatari mediators. Iran's delegation adds Central Bank Governor Hemmati and NIOC chief Bovard (banking + oil). No substantive readout yet. |
 | 14 | Final deal endorsed by binding UNSC resolution | ⚪ | **Key LP-diligence item.** Contingent on a final deal. |
 
 #### III. Maritime normalisation
@@ -79,7 +79,7 @@ RAG: 🟢 implemented · 🟡 in progress / contested · 🔴 breached · ⚪ no
 
 | Date | Call | Net read of the day |
 |---|:---:|---|
-| **21 Jun** | 🟡 | Bürgenstock talks convened — first since signing — after a morning of cancel-then-reinstate. Nuclear-first vs. Lebanon-first split; Hormuz still contested. Step forward, no breakthrough. |
+| **21 Jun** | 🟡 | Bürgenstock talks opened — Vance present and speaking — after a morning of cancel-then-reinstate. Nuclear-first vs. Lebanon-first split persists; Hormuz still contested (Iran: closed; US: 55 ships, 17m bbl). A step forward, no breakthrough. |
 | **20 Jun** | 🔴 | Iran declares Hormuz closed over Lebanon strikes; Israeli strikes kill ≥16; talks in doubt. |
 | **19 Jun** | 🔴 | First technical round called off; US delegation shelves travel amid the Lebanon escalation. |
 | **18 Jun** | 🟢 | Pakistan signals the US blockade will lift and Hormuz reopen under the framework. |
