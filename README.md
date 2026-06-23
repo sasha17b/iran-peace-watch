@@ -1,13 +1,13 @@
 # Iran Private Equity Fund: Readiness for First LP Talks
 ### A daily situation report tracking implementation of the **Islamabad Memorandum** and the trajectory toward a final peace settlement to be signed in Geneva.
 
-`As of 22 Jun 2026`  ·  `Settlement clock: Day 5 of 60`  ·  `Readiness: 🟠 ~30 / 100`  ·  `Basis: open-source reporting`
+`As of 23 Jun 2026`  ·  `Settlement clock: Day 6 of 60`  ·  `Readiness: 🟠 ~30 / 100 (held)`  ·  `Basis: open-source reporting`
 
 ---
 
 ## Bottom line
 
-> **Window opening wider — still not open.** The first round of talks concluded (22 Jun) with a 60-day roadmap and working groups on sanctions and the nuclear file — a real step in *process*. But the variable our target LPs (Partners Group, LGT Capital Partners) will actually underwrite — *legally durable, non-reversible sanctions relief* — has **not** triggered. Iran claims oil-export waivers, a lifted blockade and partial asset releases, but the claims are **one-sided and unconfirmed**, with no schedule and no UNSC-irreversibility track.
+> **Window opening wider — still not open.** Technical talks continued at Bürgenstock through 23 Jun (nuclear, sanctions, dispute resolution), described by negotiators as *"constructive but tense."* This builds on the 22 Jun roadmap and working groups — a real step in *process*. But the variable our target LPs (Partners Group, LGT Capital Partners) will actually underwrite — *legally durable, non-reversible sanctions relief* — has **not** triggered. A frozen-asset figure now floated (~$25bn) is explicitly *conditional on future compliance* — phased, not the immediate full release Iran claimed — and there is still no termination schedule and no UNSC-irreversibility track. Hormuz remains effectively shut.
 >
 > **So what for OUDRA:** advance the fund build on the critical path now, but **hold formal LP outreach** until the relief is verified, scheduled, and signalled irreversible.
 >
@@ -51,14 +51,14 @@ RAG: 🟢 implemented · 🟡 in progress / contested · 🔴 breached · ⚪ no
 | 3 | Final deal within 60 days (extendable) | 🟡 | Clock running; Day 5 of 60. **Roadmap to a final deal formally agreed 22 Jun;** technical talks continue all week. |
 | 9 | Hold the status quo during talks | 🟡 | Lebanon calmer (first zero-attack day since 2 Mar), but Hormuz still contested. |
 | 12 | Stand up a joint monitoring / compliance body | 🟡 | High Level Committee plus three working groups — oversight, sanctions, nuclear — stood up 22 Jun. Not yet operating as a compliance body. |
-| 13 | Phased negotiations once initial provisions function | 🟡 | First round **concluded early 22 Jun** (Vance led US side). Working groups now operating; technical talks continue at Bürgenstock through the week. |
+| 13 | Phased negotiations once initial provisions function | 🟡 | First round concluded 22 Jun (Vance led US side). Technical talks **resumed and ran into the early hours of 23 Jun** — "constructive but tense" per Pakistani/Iranian officials; continue at Bürgenstock all week. |
 | 14 | Final deal endorsed by binding UNSC resolution | ⚪ | **Key LP-diligence item.** Still nothing on the UNSC track; contingent on a final deal. |
 
 #### III. Maritime normalisation
 | # | Provision | | Note |
 |:--:|---|:--:|---|
 | 4 | US lifts naval blockade (complete within 30 days) | 🟡 | Iran's FM Araghchi says the blockade is lifted (22 Jun); not independently confirmed. |
-| 5 | Iran reopens Hormuz, toll-free, 60 days | 🔴 | A deconfliction / communication line "to avoid incidents" was agreed (22 Jun), but the strait stays **effectively closed** — trackers show ~zero transits; CENTCOM contests a physical closure; central channel reportedly still mined. |
+| 5 | Iran reopens Hormuz, toll-free, 60 days | 🔴 | Strait stays **effectively closed** — shipping stalled after Iran "declared the waterway closed again" (22 Jun); ~zero transits. The week's talks are on *clarifying messaging* to keep it open, not actual passage. CENTCOM contests a physical closure; central channel reportedly still mined. |
 
 #### IV. Economic provisions
 | # | Provision | | Note |
@@ -66,12 +66,12 @@ RAG: 🟢 implemented · 🟡 in progress / contested · 🔴 breached · ⚪ no
 | 6 | ≥ $300bn reconstruction fund (mechanism within 60 days) | 🟡 | **Defines the opportunity set.** Iran says a reconstruction & development plan was "launched" (22 Jun); no mechanism, scale or financing confirmed. |
 | 7 | Terminate all US sanctions on an agreed schedule | 🟡 | **The investable trigger.** A sanctions working group is now stood up and Iran claims immediate export waivers — but there is no termination *schedule*, and the claims are one-sided / unverified by the US. |
 | 10 | Immediate Treasury waivers for oil exports & related finance | 🟡 | Araghchi says oil & petrochemical exports are waived (22 Jun); US-side issuance not independently confirmed. |
-| 11 | Release Iranian frozen assets on implementation | 🟡 | Iran claims "some frozen assets released" (22 Jun); no figures, no independent confirmation, procedures unstated. |
+| 11 | Release Iranian frozen assets on implementation | 🟡 | A figure now floated — up to **~$25bn**, but *conditional on future compliance* (23 Jun), i.e. phased and contingent, not the immediate full release Iran claimed. No independent US confirmation; procedures unstated. |
 
 #### V. Nuclear file
 | # | Provision | | Note |
 |:--:|---|:--:|---|
-| 8 | No weapons; enriched stock down-blended on-site under IAEA | 🟡 | A nuclear working group is now stood up (22 Jun), but Pezeshkian reaffirms Iran "will never back down from the right to enrich." No cap, no figures, no enforcement yet. |
+| 8 | No weapons; enriched stock down-blended on-site under IAEA | 🟡 | Nuclear working group stood up (22 Jun); Vance says the aim is to secure the enriched stockpile to make rebuilding "effectively impossible" (23 Jun). But Pezeshkian still won't concede the "right to enrich" — offering only assurances of no weapon. No cap, no figures, no enforcement yet. |
 
 ---
 
@@ -79,6 +79,7 @@ RAG: 🟢 implemented · 🟡 in progress / contested · 🔴 breached · ⚪ no
 
 | Date | Call | Net read of the day |
 |---|:---:|---|
+| **23 Jun** | 🟡 | Consolidation day. Technical talks continued at Bürgenstock — "constructive but tense," running into the early hours. New detail: a ~$25bn frozen-asset figure floated but *conditional on future compliance* (phased, not immediate); Vance frames the nuclear goal as making rebuilding "effectively impossible." Hormuz still shut (shipping stalled, "closed again"); Lebanon deconfliction line called the "first real test." Process holding; no new trigger. |
 | **22 Jun** | 🟢 | First round **concluded** with a 60-day roadmap and three working groups (oversight, sanctions, nuclear) under a High Level Committee; a Lebanon framework and a Hormuz deconfliction line agreed. Iran claims oil-export waivers, lifted blockade and partial asset releases — one-sided, unconfirmed. UN reports the first zero-attack day in Lebanon since 2 Mar. Best day of the process; substance still unverified, Hormuz still shut. |
 | **21 Jun** | 🟡 | Bürgenstock talks opened — Vance present and speaking — after a morning of cancel-then-reinstate, then Trump's "won't make it back" threat briefly halted them. Nuclear-first vs. Lebanon-first split persists; Hormuz still contested. A step forward, no breakthrough. |
 | **20 Jun** | 🔴 | Iran declares Hormuz closed over Lebanon strikes; Israeli strikes kill ≥16; talks in doubt. |
